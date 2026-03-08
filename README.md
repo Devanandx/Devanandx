@@ -1,4 +1,12 @@
-#                          👋 Hello World! I'm Devanand S
+#                      <p align="center">
+<img src="YOUR_IMAGE_LINK" width="700">
+</p>
+
+<h1 align="center">Hey 👋 I'm Devanand S</h1>
+
+<p align="center">
+💻 Full Stack Developer | 🚀 Web Enthusiast | 📚 Data Scientist
+</p>
 
 
 ## 👨‍💻 About Me
