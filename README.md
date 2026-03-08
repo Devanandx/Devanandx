@@ -15,7 +15,7 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r" /><br>
 <img src="https://skillicons.dev/icons?i=javascript,html,css,django,mysql" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,chatgpt,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ## 🔗 Connect With Me
