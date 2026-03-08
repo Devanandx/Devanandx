@@ -36,10 +36,22 @@
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/devanandsuval
-- 🌐 Portfolio: https://www.instagram.com/devnandx
-- 📧 Email: devanandsuval@gmail.com
+<p align="left">
+<a href="mailto:devanandsuval@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/devanandsuval">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://github.com/Devanand10">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://www.instagram.com/devnandx">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+</p>
 
 ⭐ **"Code. Learn. Build. Repeat."**
