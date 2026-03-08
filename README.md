@@ -1,12 +1,12 @@
 #                          👋 Hello World! I'm Devanand S
 
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently working on improving my **Full Stack Development skills**
-- 🌱 Learning **JavaScript, React, Node.js, and Django**
-- ⚡ Interested in **Web Development, Open Source, and Software Engineering**
-- 🎯 Goal: Become a **professional Full Stack Developer**
+- 🎓 Computer Science enthusiast passionate about technology
+- 💻 Focused on Web Development and building real-world projects
+- 🌱 Currently learning modern frontend and backend technologies
+- 🚀 Working towards becoming a professional Full Stack Developer
 
 ---
 
