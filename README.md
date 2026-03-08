@@ -12,19 +12,13 @@
 
 ## 🛠️ Tech Stack
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
+## 🛠️ Tools & Technologies
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Django](https://skillicons.dev/icons?i=django)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Git](https://skillicons.dev/icons?i=git)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,r" /><br>
+<img src="https://skillicons.dev/icons?i=javascript,html,css,django,mysql" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ## 🔗 Connect With Me
 
