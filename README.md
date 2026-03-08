@@ -23,7 +23,6 @@
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![React](https://skillicons.dev/icons?i=react)
 
-### ⚙️ Backend
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Django](https://skillicons.dev/icons?i=django)
