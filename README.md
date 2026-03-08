@@ -1,11 +1,11 @@
-#                      <p align="center">
+<p align="center">
 <img src="YOUR_IMAGE_LINK" width="700">
 </p>
 
 <h1 align="center">Hey 👋 I'm Devanand S</h1>
 
 <p align="center">
-💻 Full Stack Developer | 🚀 Web Enthusiast | 📚 Data Scientist
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=26&pause=1000&color=FFA500&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Web+Enthusiast+%7C+Data+Scientist">
 </p>
 
 
